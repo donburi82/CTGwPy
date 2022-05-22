@@ -8,8 +8,17 @@ Cardiotocography is a technical means of recording the fetal hearbeat and the ut
 
 This program is designed to:
 1) Ask for desired plot rate
+
+![rate](./screenshots/rate.png)
+
 2) Read those values from an external camera which is capturing the screen of a cardiotocograph
+
+![roi](./screenshots/roi.png)
+
 3) Plot a graph and display color gradients of those values
+
+![plot](./screenshots/plot.png)
+
 
 The program serves as a prototype for further use. For example, one could link the program with a VR glass, in order to keep those values in a safe range by playing appropriate music or videos for the patient.
 
